@@ -1,4 +1,2 @@
-# Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
-
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+# Python(pandas,matplotlin,seaborn,numpy)
+Performed Exploratory Data Analysis and Cleaning.improved customer experience by identifying potential customer accross the states,occupation,gender and age groups.improved sales by identifying most selling product category and products which can help to plan inventory and hence meet the demands
